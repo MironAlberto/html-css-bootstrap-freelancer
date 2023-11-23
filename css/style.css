@@ -5,3 +5,51 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+/* UTILITIES */
+#blue-color{
+    background-color: #2C3E50;
+}
+
+#light-blue-color{
+    background-color: #1ABC9C;
+}
+
+#blue-color-2{
+    background-color: #3A546D;
+}
+
+.green-color{
+    color: #1EB196;
+}
+
+.white-line{
+    height: 2px;
+    background-color: white;
+}
+
+.black-line{
+    height: 2px;
+    background-color: black;
+}
+
+.rounded-box{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+/* IMG */
+.img-box img{
+    width: 25%;
+}
+
+.img-box-portfolio img{
+    width: 100%;
+    border-radius: 10px;
+}
