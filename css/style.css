@@ -27,11 +27,13 @@
 .white-line{
     height: 2px;
     background-color: white;
+    border-radius: 1px;
 }
 
 .black-line{
     height: 2px;
     background-color: black;
+    border-radius: 1px;
 }
 
 .rounded-box{
