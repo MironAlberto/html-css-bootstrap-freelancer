@@ -46,7 +46,7 @@
 
 /* IMG */
 .img-box img{
-    width: 25%;
+    max-width: 250px;
 }
 
 .img-box-portfolio img{
